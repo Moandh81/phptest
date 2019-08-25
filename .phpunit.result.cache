@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":123:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:2:{s:21:"test_if_human_has_age";d:0.002;s:30:"test_if_len_tableau_is_correct";d:0;}}}
